@@ -8,6 +8,7 @@ ATI Editora
 Para compilador Turbo C
 
 Como compilar:
+
 tcc -c terceira.c
 
 tlib 3d+terceira
