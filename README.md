@@ -4,6 +4,7 @@ Terceira 3D retirado da revista Micro Sistemas, número 99, ano 1997
 ATI Editora
 
 /****************************************************/
+
 Para compilador Turbo C
 
 Como compilar:
@@ -16,6 +17,7 @@ Criei um arquivo comp.bat, basta executá-lo para compilar.
 Se ao executar o program ocorrer o erro 
 BGI Error: Graphics not initialized (use 'initgraph')
 copie o arquivo CGA.BGI para o diretório ou arrume o seu path.
+
 
 /****************************************************/
 
