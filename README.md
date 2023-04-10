@@ -9,12 +9,15 @@ Para compilador Turbo C
 
 Como compilar:
 tcc -c terceira.c
+
 tlib 3d+terceira
+
 tcc ex3d2.c graphics.lib 3d.lib
+
 
 Criei um arquivo comp.bat, basta executá-lo para compilar.
 
-Se ao executar o program ocorrer o erro 
+Se ao executar o program ocorrer o erro
 BGI Error: Graphics not initialized (use 'initgraph')
 copie o arquivo CGA.BGI para o diretório ou arrume o seu path.
 
@@ -22,6 +25,7 @@ copie o arquivo CGA.BGI para o diretório ou arrume o seu path.
 /****************************************************/
 
 Código original por
+
 Vander Roberto Nunes Dias
 
 A revista em PDF pode ser baixada no site:
