@@ -102,6 +102,13 @@ main()
 	incl(3,8);
 	incl(2,7);
 	incl(4,5);
+
+	/* NOTA: 4 linhas abaixo estavam faltando no artigo original*/
+	incl(5,6); 
+	incl(6,7);
+	incl(7,8);
+	incl(8,5);
+
 	incl(0,0);
 	
 	incf("exemplo2",0,0,0);
