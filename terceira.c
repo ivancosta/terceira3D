@@ -95,6 +95,7 @@ void inco(char nome[SNOME], int x, int y, int z, int prox, int alfa, int beta, i
         objeto[no].proxo = prox;
         objeto[no].primv = nv;
         objeto[no].priml = nl;
+        no++;
     }
     else
     {
