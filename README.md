@@ -1,5 +1,6 @@
 # terceira3D
 Listagem da biblioteca gráfica "Terceira 3D" 
+
 Originalmente publicado na revista Micro Sistemas, número 99, ano 1997
 ATI Editora
 
