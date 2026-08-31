@@ -1,6 +1,6 @@
 # terceira3D
-Listagem da biblioteca em gráfica em C 
-Terceira 3D retirado da revista Micro Sistemas, número 99, ano 1997
+Listagem da biblioteca gráfica "Terceira 3D" 
+Originalmente publicado na revista Micro Sistemas, número 99, ano 1997
 ATI Editora
 
 /****************************************************/
